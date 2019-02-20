@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PhoneBook</string>
+    <string name="contacts_count">Find contacts: %s</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="phone_type">Type</string>
+    <string name="save">SAVE</string>
+    <string name="edit">EDIT</string>
+    <string name="delete">DELETE</string>
+    <string name="new_contact">New Contact</string>
+    <string name="save_toast">First Name and Phone Number are mandatory fields, please fill them correctly!!!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new_contact">New Contact</string>
+    <string name="title_contacts_list_activity">Contacts List</string>
+    <string name="title_view_activity">Contact Information</string>
+
+    <string-array name="phoneTypesArray">
+        <item>Home</item>
+        <item>Work</item>
+    </string-array>
+</resources>
